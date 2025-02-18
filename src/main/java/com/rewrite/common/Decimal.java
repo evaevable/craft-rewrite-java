@@ -1,4 +1,4 @@
-package com.rewrite;
+package com.rewrite.common;
 
 public class Decimal {
     public static final int MIN_DIGIT = 32;
